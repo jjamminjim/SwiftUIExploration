@@ -22,6 +22,7 @@
 		9F3066F729C0F70500528028 /* ControlSizeExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066F629C0F70500528028 /* ControlSizeExample.swift */; };
 		9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066F829C0F7BF00528028 /* DisclosureGroupExample.swift */; };
 		9F3066FD29C0F8B000528028 /* GroupBoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066FC29C0F8B000528028 /* GroupBoxExample.swift */; };
+		9F30670129C0FA8D00528028 /* TextEditorExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30670029C0FA8D00528028 /* TextEditorExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		9F3066F629C0F70500528028 /* ControlSizeExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlSizeExample.swift; sourceTree = "<group>"; };
 		9F3066F829C0F7BF00528028 /* DisclosureGroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisclosureGroupExample.swift; sourceTree = "<group>"; };
 		9F3066FC29C0F8B000528028 /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
+		9F30670029C0FA8D00528028 /* TextEditorExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -159,6 +161,7 @@
 				9F3066F629C0F70500528028 /* ControlSizeExample.swift */,
 				9F3066F829C0F7BF00528028 /* DisclosureGroupExample.swift */,
 				9F3066FC29C0F8B000528028 /* GroupBoxExample.swift */,
+				9F30670029C0FA8D00528028 /* TextEditorExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -303,6 +306,7 @@
 				9F3066C229C0ECFA00528028 /* ContentView.swift in Sources */,
 				9F3066C029C0ECFA00528028 /* SwiftUIExplorationApp.swift in Sources */,
 				9F3066F329C0F58600528028 /* MenuExample.swift in Sources */,
+				9F30670129C0FA8D00528028 /* TextEditorExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

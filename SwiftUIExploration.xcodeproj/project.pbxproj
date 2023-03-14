@@ -43,6 +43,7 @@
 		9F30672B29C129E800528028 /* ShareLinkExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30672A29C129E800528028 /* ShareLinkExample.swift */; };
 		9F30672F29C12BBB00528028 /* SliderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30672E29C12BBB00528028 /* SliderExample.swift */; };
 		9F30673129C12C5C00528028 /* TabViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673029C12C5C00528028 /* TabViewExample.swift */; };
+		9F30673329C12E8600528028 /* BadgeExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673229C12E8600528028 /* BadgeExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -104,6 +105,7 @@
 		9F30672A29C129E800528028 /* ShareLinkExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkExample.swift; sourceTree = "<group>"; };
 		9F30672E29C12BBB00528028 /* SliderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderExample.swift; sourceTree = "<group>"; };
 		9F30673029C12C5C00528028 /* TabViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewExample.swift; sourceTree = "<group>"; };
+		9F30673229C12E8600528028 /* BadgeExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +224,7 @@
 				9F30672A29C129E800528028 /* ShareLinkExample.swift */,
 				9F30672E29C12BBB00528028 /* SliderExample.swift */,
 				9F30673029C12C5C00528028 /* TabViewExample.swift */,
+				9F30673229C12E8600528028 /* BadgeExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -368,6 +371,7 @@
 				9F3066F529C0F62700528028 /* ButtonExample.swift in Sources */,
 				9F30670329C1059D00528028 /* ColorPickerExample.swift in Sources */,
 				9F30672B29C129E800528028 /* ShareLinkExample.swift in Sources */,
+				9F30673329C12E8600528028 /* BadgeExample.swift in Sources */,
 				9F3066EF29C0F3A200528028 /* ProgressViewExample.swift in Sources */,
 				9F30671129C1116000528028 /* LabeledContentExample.swift in Sources */,
 				9F3066F729C0F70500528028 /* ControlSizeExample.swift in Sources */,

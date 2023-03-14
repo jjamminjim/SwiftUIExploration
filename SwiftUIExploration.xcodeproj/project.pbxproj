@@ -39,6 +39,7 @@
 		9F30671F29C11DE700528028 /* OutlineGroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671E29C11DE700528028 /* OutlineGroupExample.swift */; };
 		9F30672529C125C900528028 /* ScrollViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30672429C125C900528028 /* ScrollViewExample.swift */; };
 		9F30672729C1279500528028 /* SectionExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30672629C1279500528028 /* SectionExample.swift */; };
+		9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30672829C1293500528028 /* SecureFieldExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -96,6 +97,7 @@
 		9F30671E29C11DE700528028 /* OutlineGroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutlineGroupExample.swift; sourceTree = "<group>"; };
 		9F30672429C125C900528028 /* ScrollViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewExample.swift; sourceTree = "<group>"; };
 		9F30672629C1279500528028 /* SectionExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionExample.swift; sourceTree = "<group>"; };
+		9F30672829C1293500528028 /* SecureFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecureFieldExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +212,7 @@
 				9F30671E29C11DE700528028 /* OutlineGroupExample.swift */,
 				9F30672429C125C900528028 /* ScrollViewExample.swift */,
 				9F30672629C1279500528028 /* SectionExample.swift */,
+				9F30672829C1293500528028 /* SecureFieldExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -350,6 +353,7 @@
 				9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */,
 				9F30671529C118D200528028 /* ListExample.swift in Sources */,
 				9F30671B29C11C1800528028 /* NavigationSplitViewExample.swift in Sources */,
+				9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */,
 				9F3066F129C0F43400528028 /* PickerExample.swift in Sources */,
 				9F30671329C117C900528028 /* LinkExample.swift in Sources */,
 				9F3066F529C0F62700528028 /* ButtonExample.swift in Sources */,

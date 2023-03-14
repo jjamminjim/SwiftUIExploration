@@ -21,6 +21,7 @@
 		9F3066F529C0F62700528028 /* ButtonExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066F429C0F62700528028 /* ButtonExample.swift */; };
 		9F3066F729C0F70500528028 /* ControlSizeExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066F629C0F70500528028 /* ControlSizeExample.swift */; };
 		9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066F829C0F7BF00528028 /* DisclosureGroupExample.swift */; };
+		9F3066FD29C0F8B000528028 /* GroupBoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066FC29C0F8B000528028 /* GroupBoxExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +61,7 @@
 		9F3066F429C0F62700528028 /* ButtonExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonExample.swift; sourceTree = "<group>"; };
 		9F3066F629C0F70500528028 /* ControlSizeExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlSizeExample.swift; sourceTree = "<group>"; };
 		9F3066F829C0F7BF00528028 /* DisclosureGroupExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DisclosureGroupExample.swift; sourceTree = "<group>"; };
+		9F3066FC29C0F8B000528028 /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +158,7 @@
 				9F3066F429C0F62700528028 /* ButtonExample.swift */,
 				9F3066F629C0F70500528028 /* ControlSizeExample.swift */,
 				9F3066F829C0F7BF00528028 /* DisclosureGroupExample.swift */,
+				9F3066FC29C0F8B000528028 /* GroupBoxExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -290,6 +293,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F3066FD29C0F8B000528028 /* GroupBoxExample.swift in Sources */,
 				9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */,
 				9F3066F129C0F43400528028 /* PickerExample.swift in Sources */,
 				9F3066F529C0F62700528028 /* ButtonExample.swift in Sources */,

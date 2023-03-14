@@ -31,6 +31,7 @@
 		9F30670F29C1109500528028 /* LabelExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30670E29C1109500528028 /* LabelExample.swift */; };
 		9F30671129C1116000528028 /* LabeledContentExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671029C1116000528028 /* LabeledContentExample.swift */; };
 		9F30671329C117C900528028 /* LinkExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671229C117C900528028 /* LinkExample.swift */; };
+		9F30671529C118D200528028 /* ListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671429C118D200528028 /* ListExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,6 +81,7 @@
 		9F30670E29C1109500528028 /* LabelExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelExample.swift; sourceTree = "<group>"; };
 		9F30671029C1116000528028 /* LabeledContentExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabeledContentExample.swift; sourceTree = "<group>"; };
 		9F30671229C117C900528028 /* LinkExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkExample.swift; sourceTree = "<group>"; };
+		9F30671429C118D200528028 /* ListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -186,6 +188,7 @@
 				9F30670E29C1109500528028 /* LabelExample.swift */,
 				9F30671029C1116000528028 /* LabeledContentExample.swift */,
 				9F30671229C117C900528028 /* LinkExample.swift */,
+				9F30671429C118D200528028 /* ListExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -324,6 +327,7 @@
 				9F3066FD29C0F8B000528028 /* GroupBoxExample.swift in Sources */,
 				9F30670B29C10AED00528028 /* GaugeExample.swift in Sources */,
 				9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */,
+				9F30671529C118D200528028 /* ListExample.swift in Sources */,
 				9F3066F129C0F43400528028 /* PickerExample.swift in Sources */,
 				9F30671329C117C900528028 /* LinkExample.swift in Sources */,
 				9F3066F529C0F62700528028 /* ButtonExample.swift in Sources */,

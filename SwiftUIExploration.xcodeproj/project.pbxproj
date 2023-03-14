@@ -45,6 +45,7 @@
 		9F3066D729C0ECFB00528028 /* SwiftUIExplorationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIExplorationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F3066DB29C0ECFB00528028 /* SwiftUIExplorationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIExplorationUITests.swift; sourceTree = "<group>"; };
 		9F3066DD29C0ECFB00528028 /* SwiftUIExplorationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIExplorationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9F3066EA29C0ED8700528028 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		9F3066B329C0ECFA00528028 = {
 			isa = PBXGroup;
 			children = (
+				9F3066EA29C0ED8700528028 /* README.md */,
 				9F3066BE29C0ECFA00528028 /* SwiftUIExploration */,
 				9F3066D029C0ECFB00528028 /* SwiftUIExplorationTests */,
 				9F3066DA29C0ECFB00528028 /* SwiftUIExplorationUITests */,

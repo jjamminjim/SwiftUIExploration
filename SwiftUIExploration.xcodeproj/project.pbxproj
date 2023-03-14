@@ -97,6 +97,7 @@
 		9F3066BE29C0ECFA00528028 /* SwiftUIExploration */ = {
 			isa = PBXGroup;
 			children = (
+				9F3066EB29C0F00800528028 /* Examples */,
 				9F3066BF29C0ECFA00528028 /* SwiftUIExplorationApp.swift */,
 				9F3066C129C0ECFA00528028 /* ContentView.swift */,
 				9F3066C329C0ECFB00528028 /* Assets.xcassets */,
@@ -129,6 +130,13 @@
 				9F3066DD29C0ECFB00528028 /* SwiftUIExplorationUITestsLaunchTests.swift */,
 			);
 			path = SwiftUIExplorationUITests;
+			sourceTree = "<group>";
+		};
+		9F3066EB29C0F00800528028 /* Examples */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Examples;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

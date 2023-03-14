@@ -26,6 +26,7 @@
 		9F30670329C1059D00528028 /* ColorPickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30670229C1059D00528028 /* ColorPickerExample.swift */; };
 		9F30670529C106E900528028 /* DatePickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30670429C106E900528028 /* DatePickerExample.swift */; };
 		9F30670729C1093200528028 /* EditButtonExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30670629C1093200528028 /* EditButtonExample.swift */; };
+		9F30670929C10A8A00528028 /* FormExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30670829C10A8A00528028 /* FormExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		9F30670229C1059D00528028 /* ColorPickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerExample.swift; sourceTree = "<group>"; };
 		9F30670429C106E900528028 /* DatePickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerExample.swift; sourceTree = "<group>"; };
 		9F30670629C1093200528028 /* EditButtonExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditButtonExample.swift; sourceTree = "<group>"; };
+		9F30670829C10A8A00528028 /* FormExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -171,6 +173,7 @@
 				9F30670229C1059D00528028 /* ColorPickerExample.swift */,
 				9F30670429C106E900528028 /* DatePickerExample.swift */,
 				9F30670629C1093200528028 /* EditButtonExample.swift */,
+				9F30670829C10A8A00528028 /* FormExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F30670929C10A8A00528028 /* FormExample.swift in Sources */,
 				9F3066FD29C0F8B000528028 /* GroupBoxExample.swift in Sources */,
 				9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */,
 				9F3066F129C0F43400528028 /* PickerExample.swift in Sources */,

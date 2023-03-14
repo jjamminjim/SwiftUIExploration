@@ -9,7 +9,7 @@ import SwiftUI
 
 struct DisclosureGroupExample: View {
     var body: some View {
-        DisclosureGroup("Group") {
+        DisclosureGroup("DisclosureGroup") {
             Text("Content")
         }
     }

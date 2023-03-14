@@ -44,6 +44,7 @@
 		9F30672F29C12BBB00528028 /* SliderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30672E29C12BBB00528028 /* SliderExample.swift */; };
 		9F30673129C12C5C00528028 /* TabViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673029C12C5C00528028 /* TabViewExample.swift */; };
 		9F30673329C12E8600528028 /* BadgeExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673229C12E8600528028 /* BadgeExample.swift */; };
+		9F30673529C1307300528028 /* TextExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673429C1307300528028 /* TextExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -106,6 +107,7 @@
 		9F30672E29C12BBB00528028 /* SliderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderExample.swift; sourceTree = "<group>"; };
 		9F30673029C12C5C00528028 /* TabViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewExample.swift; sourceTree = "<group>"; };
 		9F30673229C12E8600528028 /* BadgeExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeExample.swift; sourceTree = "<group>"; };
+		9F30673429C1307300528028 /* TextExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -225,6 +227,7 @@
 				9F30672E29C12BBB00528028 /* SliderExample.swift */,
 				9F30673029C12C5C00528028 /* TabViewExample.swift */,
 				9F30673229C12E8600528028 /* BadgeExample.swift */,
+				9F30673429C1307300528028 /* TextExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -378,6 +381,7 @@
 				9F30671929C11A2E00528028 /* NavigationLinkExample.swift in Sources */,
 				9F30673129C12C5C00528028 /* TabViewExample.swift in Sources */,
 				9F30670F29C1109500528028 /* LabelExample.swift in Sources */,
+				9F30673529C1307300528028 /* TextExample.swift in Sources */,
 				9F30672729C1279500528028 /* SectionExample.swift in Sources */,
 				9F3066ED29C0F2CA00528028 /* StepperExample.swift in Sources */,
 				9F3066C229C0ECFA00528028 /* ContentView.swift in Sources */,

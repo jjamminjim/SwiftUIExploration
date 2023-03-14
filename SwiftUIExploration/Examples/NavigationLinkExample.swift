@@ -10,8 +10,10 @@ import SwiftUI
 struct NavigationLinkExample: View {
     var body: some View {
         NavigationStack {
-            NavigationLink("NavigationLink") { Subview() }
-                .navigationTitle("NavigationLink")
+            NavigationLink("NavigationLink") {
+                Subview()
+            }
+            .navigationTitle("NavigationLink")
         }
     }
 }

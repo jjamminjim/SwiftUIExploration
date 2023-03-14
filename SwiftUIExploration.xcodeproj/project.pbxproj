@@ -32,6 +32,7 @@
 		9F30671129C1116000528028 /* LabeledContentExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671029C1116000528028 /* LabeledContentExample.swift */; };
 		9F30671329C117C900528028 /* LinkExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671229C117C900528028 /* LinkExample.swift */; };
 		9F30671529C118D200528028 /* ListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671429C118D200528028 /* ListExample.swift */; };
+		9F30671729C1196000528028 /* MultiDatePickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671629C1196000528028 /* MultiDatePickerExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,6 +83,7 @@
 		9F30671029C1116000528028 /* LabeledContentExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabeledContentExample.swift; sourceTree = "<group>"; };
 		9F30671229C117C900528028 /* LinkExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkExample.swift; sourceTree = "<group>"; };
 		9F30671429C118D200528028 /* ListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExample.swift; sourceTree = "<group>"; };
+		9F30671629C1196000528028 /* MultiDatePickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiDatePickerExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,6 +191,7 @@
 				9F30671029C1116000528028 /* LabeledContentExample.swift */,
 				9F30671229C117C900528028 /* LinkExample.swift */,
 				9F30671429C118D200528028 /* ListExample.swift */,
+				9F30671629C1196000528028 /* MultiDatePickerExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -340,6 +343,7 @@
 				9F3066C229C0ECFA00528028 /* ContentView.swift in Sources */,
 				9F3066C029C0ECFA00528028 /* SwiftUIExplorationApp.swift in Sources */,
 				9F30670729C1093200528028 /* EditButtonExample.swift in Sources */,
+				9F30671729C1196000528028 /* MultiDatePickerExample.swift in Sources */,
 				9F3066F329C0F58600528028 /* MenuExample.swift in Sources */,
 				9F30670529C106E900528028 /* DatePickerExample.swift in Sources */,
 				9F30670129C0FA8D00528028 /* TextEditorExample.swift in Sources */,

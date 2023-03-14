@@ -15,6 +15,7 @@
 		9F3066DC29C0ECFB00528028 /* SwiftUIExplorationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066DB29C0ECFB00528028 /* SwiftUIExplorationUITests.swift */; };
 		9F3066DE29C0ECFB00528028 /* SwiftUIExplorationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066DD29C0ECFB00528028 /* SwiftUIExplorationUITestsLaunchTests.swift */; };
 		9F3066ED29C0F2CA00528028 /* StepperExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066EC29C0F2CA00528028 /* StepperExample.swift */; };
+		9F3066EF29C0F3A200528028 /* ProgressViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066EE29C0F3A200528028 /* ProgressViewExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		9F3066DD29C0ECFB00528028 /* SwiftUIExplorationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIExplorationUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		9F3066EA29C0ED8700528028 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9F3066EC29C0F2CA00528028 /* StepperExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperExample.swift; sourceTree = "<group>"; };
+		9F3066EE29C0F3A200528028 /* ProgressViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 			isa = PBXGroup;
 			children = (
 				9F3066EC29C0F2CA00528028 /* StepperExample.swift */,
+				9F3066EE29C0F3A200528028 /* ProgressViewExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F3066EF29C0F3A200528028 /* ProgressViewExample.swift in Sources */,
 				9F3066ED29C0F2CA00528028 /* StepperExample.swift in Sources */,
 				9F3066C229C0ECFA00528028 /* ContentView.swift in Sources */,
 				9F3066C029C0ECFA00528028 /* SwiftUIExplorationApp.swift in Sources */,

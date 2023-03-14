@@ -45,6 +45,7 @@
 		9F30673129C12C5C00528028 /* TabViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673029C12C5C00528028 /* TabViewExample.swift */; };
 		9F30673329C12E8600528028 /* BadgeExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673229C12E8600528028 /* BadgeExample.swift */; };
 		9F30673529C1307300528028 /* TextExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673429C1307300528028 /* TextExample.swift */; };
+		9F30673729C1315D00528028 /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673629C1315D00528028 /* TextFieldExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -108,6 +109,7 @@
 		9F30673029C12C5C00528028 /* TabViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewExample.swift; sourceTree = "<group>"; };
 		9F30673229C12E8600528028 /* BadgeExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgeExample.swift; sourceTree = "<group>"; };
 		9F30673429C1307300528028 /* TextExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextExample.swift; sourceTree = "<group>"; };
+		9F30673629C1315D00528028 /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -228,6 +230,7 @@
 				9F30673029C12C5C00528028 /* TabViewExample.swift */,
 				9F30673229C12E8600528028 /* BadgeExample.swift */,
 				9F30673429C1307300528028 /* TextExample.swift */,
+				9F30673629C1315D00528028 /* TextFieldExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -392,6 +395,7 @@
 				9F30671729C1196000528028 /* MultiDatePickerExample.swift in Sources */,
 				9F3066F329C0F58600528028 /* MenuExample.swift in Sources */,
 				9F30671F29C11DE700528028 /* OutlineGroupExample.swift in Sources */,
+				9F30673729C1315D00528028 /* TextFieldExample.swift in Sources */,
 				9F30672F29C12BBB00528028 /* SliderExample.swift in Sources */,
 				9F30670529C106E900528028 /* DatePickerExample.swift in Sources */,
 				9F30670129C0FA8D00528028 /* TextEditorExample.swift in Sources */,

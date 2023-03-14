@@ -42,6 +42,7 @@
 		9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30672829C1293500528028 /* SecureFieldExample.swift */; };
 		9F30672B29C129E800528028 /* ShareLinkExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30672A29C129E800528028 /* ShareLinkExample.swift */; };
 		9F30672F29C12BBB00528028 /* SliderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30672E29C12BBB00528028 /* SliderExample.swift */; };
+		9F30673129C12C5C00528028 /* TabViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673029C12C5C00528028 /* TabViewExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -102,6 +103,7 @@
 		9F30672829C1293500528028 /* SecureFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecureFieldExample.swift; sourceTree = "<group>"; };
 		9F30672A29C129E800528028 /* ShareLinkExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareLinkExample.swift; sourceTree = "<group>"; };
 		9F30672E29C12BBB00528028 /* SliderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderExample.swift; sourceTree = "<group>"; };
+		9F30673029C12C5C00528028 /* TabViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,6 +221,7 @@
 				9F30672829C1293500528028 /* SecureFieldExample.swift */,
 				9F30672A29C129E800528028 /* ShareLinkExample.swift */,
 				9F30672E29C12BBB00528028 /* SliderExample.swift */,
+				9F30673029C12C5C00528028 /* TabViewExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				9F30671129C1116000528028 /* LabeledContentExample.swift in Sources */,
 				9F3066F729C0F70500528028 /* ControlSizeExample.swift in Sources */,
 				9F30671929C11A2E00528028 /* NavigationLinkExample.swift in Sources */,
+				9F30673129C12C5C00528028 /* TabViewExample.swift in Sources */,
 				9F30670F29C1109500528028 /* LabelExample.swift in Sources */,
 				9F30672729C1279500528028 /* SectionExample.swift in Sources */,
 				9F3066ED29C0F2CA00528028 /* StepperExample.swift in Sources */,

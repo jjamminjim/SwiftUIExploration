@@ -24,6 +24,7 @@
 		9F3066FD29C0F8B000528028 /* GroupBoxExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066FC29C0F8B000528028 /* GroupBoxExample.swift */; };
 		9F30670129C0FA8D00528028 /* TextEditorExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30670029C0FA8D00528028 /* TextEditorExample.swift */; };
 		9F30670329C1059D00528028 /* ColorPickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30670229C1059D00528028 /* ColorPickerExample.swift */; };
+		9F30670529C106E900528028 /* DatePickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30670429C106E900528028 /* DatePickerExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		9F3066FC29C0F8B000528028 /* GroupBoxExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupBoxExample.swift; sourceTree = "<group>"; };
 		9F30670029C0FA8D00528028 /* TextEditorExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextEditorExample.swift; sourceTree = "<group>"; };
 		9F30670229C1059D00528028 /* ColorPickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerExample.swift; sourceTree = "<group>"; };
+		9F30670429C106E900528028 /* DatePickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 				9F3066FC29C0F8B000528028 /* GroupBoxExample.swift */,
 				9F30670029C0FA8D00528028 /* TextEditorExample.swift */,
 				9F30670229C1059D00528028 /* ColorPickerExample.swift */,
+				9F30670429C106E900528028 /* DatePickerExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -310,6 +313,7 @@
 				9F3066C229C0ECFA00528028 /* ContentView.swift in Sources */,
 				9F3066C029C0ECFA00528028 /* SwiftUIExplorationApp.swift in Sources */,
 				9F3066F329C0F58600528028 /* MenuExample.swift in Sources */,
+				9F30670529C106E900528028 /* DatePickerExample.swift in Sources */,
 				9F30670129C0FA8D00528028 /* TextEditorExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -33,6 +33,7 @@
 		9F30671329C117C900528028 /* LinkExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671229C117C900528028 /* LinkExample.swift */; };
 		9F30671529C118D200528028 /* ListExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671429C118D200528028 /* ListExample.swift */; };
 		9F30671729C1196000528028 /* MultiDatePickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671629C1196000528028 /* MultiDatePickerExample.swift */; };
+		9F30671929C11A2E00528028 /* NavigationLinkExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30671829C11A2E00528028 /* NavigationLinkExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +85,7 @@
 		9F30671229C117C900528028 /* LinkExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkExample.swift; sourceTree = "<group>"; };
 		9F30671429C118D200528028 /* ListExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListExample.swift; sourceTree = "<group>"; };
 		9F30671629C1196000528028 /* MultiDatePickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiDatePickerExample.swift; sourceTree = "<group>"; };
+		9F30671829C11A2E00528028 /* NavigationLinkExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationLinkExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +194,7 @@
 				9F30671229C117C900528028 /* LinkExample.swift */,
 				9F30671429C118D200528028 /* ListExample.swift */,
 				9F30671629C1196000528028 /* MultiDatePickerExample.swift */,
+				9F30671829C11A2E00528028 /* NavigationLinkExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -338,6 +341,7 @@
 				9F3066EF29C0F3A200528028 /* ProgressViewExample.swift in Sources */,
 				9F30671129C1116000528028 /* LabeledContentExample.swift in Sources */,
 				9F3066F729C0F70500528028 /* ControlSizeExample.swift in Sources */,
+				9F30671929C11A2E00528028 /* NavigationLinkExample.swift in Sources */,
 				9F30670F29C1109500528028 /* LabelExample.swift in Sources */,
 				9F3066ED29C0F2CA00528028 /* StepperExample.swift in Sources */,
 				9F3066C229C0ECFA00528028 /* ContentView.swift in Sources */,

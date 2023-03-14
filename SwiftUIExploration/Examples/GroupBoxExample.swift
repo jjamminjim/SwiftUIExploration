@@ -9,7 +9,7 @@ import SwiftUI
 
 struct GroupBoxExample: View {
     var body: some View {
-        GroupBox(label: Text("GroupBox")) {
+        GroupBox("GroupBox") {
             Text("Content")
         }
     }

@@ -11,17 +11,15 @@ struct ControlSizeExample: View {
     var body: some View {
         VStack {
             Button("Button") {}
-                .buttonStyle(.borderedProminent)
                 .controlSize(.large)
             
             Button("Button") {}
-                .buttonStyle(.borderedProminent)
                 .controlSize(.regular)
             
             Button("Button") {}
-                .buttonStyle(.borderedProminent)
                 .controlSize(.small)
         }
+        .buttonStyle(.borderedProminent)
     }
 }
 

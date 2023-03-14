@@ -11,7 +11,7 @@ struct EditButtonExample: View {
     @State private var items = ["1", "2"]
     
     var body: some View {
-        NavigationView {
+        NavigationStack {
             List {
                 ForEach(items, id: \.self) { item in
                     Text(item)

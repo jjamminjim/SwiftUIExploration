@@ -17,6 +17,7 @@
 		9F3066ED29C0F2CA00528028 /* StepperExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066EC29C0F2CA00528028 /* StepperExample.swift */; };
 		9F3066EF29C0F3A200528028 /* ProgressViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066EE29C0F3A200528028 /* ProgressViewExample.swift */; };
 		9F3066F129C0F43400528028 /* PickerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066F029C0F43400528028 /* PickerExample.swift */; };
+		9F3066F329C0F58600528028 /* MenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F3066F229C0F58600528028 /* MenuExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		9F3066EC29C0F2CA00528028 /* StepperExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperExample.swift; sourceTree = "<group>"; };
 		9F3066EE29C0F3A200528028 /* ProgressViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewExample.swift; sourceTree = "<group>"; };
 		9F3066F029C0F43400528028 /* PickerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerExample.swift; sourceTree = "<group>"; };
+		9F3066F229C0F58600528028 /* MenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -144,6 +146,7 @@
 				9F3066EC29C0F2CA00528028 /* StepperExample.swift */,
 				9F3066EE29C0F3A200528028 /* ProgressViewExample.swift */,
 				9F3066F029C0F43400528028 /* PickerExample.swift */,
+				9F3066F229C0F58600528028 /* MenuExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 				9F3066ED29C0F2CA00528028 /* StepperExample.swift in Sources */,
 				9F3066C229C0ECFA00528028 /* ContentView.swift in Sources */,
 				9F3066C029C0ECFA00528028 /* SwiftUIExplorationApp.swift in Sources */,
+				9F3066F329C0F58600528028 /* MenuExample.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

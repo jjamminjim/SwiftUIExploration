@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct StepperExample: View {
-    @State private var value = 0
+    @State private var value = 5
     let step = 1
     let range = 1...10
     

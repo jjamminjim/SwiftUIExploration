@@ -58,6 +58,7 @@
 		9FC1E93829C16F4C009E2D2C /* SpacerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */; };
 		9FC1E93A29C17053009E2D2C /* VStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93929C17053009E2D2C /* VStackExample.swift */; };
 		9FC1E93C29C1718C009E2D2C /* ViewThatFitsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93B29C1718C009E2D2C /* ViewThatFitsExample.swift */; };
+		9FC1E93E29C17330009E2D2C /* AsyncImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93D29C17330009E2D2C /* AsyncImageExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -134,6 +135,7 @@
 		9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerExample.swift; sourceTree = "<group>"; };
 		9FC1E93929C17053009E2D2C /* VStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStackExample.swift; sourceTree = "<group>"; };
 		9FC1E93B29C1718C009E2D2C /* ViewThatFitsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsExample.swift; sourceTree = "<group>"; };
+		9FC1E93D29C17330009E2D2C /* AsyncImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -267,6 +269,7 @@
 				9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */,
 				9FC1E93929C17053009E2D2C /* VStackExample.swift */,
 				9FC1E93B29C1718C009E2D2C /* ViewThatFitsExample.swift */,
+				9FC1E93D29C17330009E2D2C /* AsyncImageExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -404,6 +407,7 @@
 				9F30670929C10A8A00528028 /* FormExample.swift in Sources */,
 				9F3066FD29C0F8B000528028 /* GroupBoxExample.swift in Sources */,
 				9F30670B29C10AED00528028 /* GaugeExample.swift in Sources */,
+				9FC1E93E29C17330009E2D2C /* AsyncImageExample.swift in Sources */,
 				9F30673929C131AC00528028 /* ToggleExample.swift in Sources */,
 				9FC1E93229C16BFF009E2D2C /* LazyVGridExample.swift in Sources */,
 				9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */,

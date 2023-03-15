@@ -68,6 +68,7 @@
 		9FC1E95029C180DD009E2D2C /* FullScreenCoverExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */; };
 		9FC1E95229C181D7009E2D2C /* PresentationDetentsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */; };
 		9FC1E95429C18435009E2D2C /* ToolbarExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E95329C18435009E2D2C /* ToolbarExample.swift */; };
+		9FC1E95629C18539009E2D2C /* ToolbarTitleMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E95529C18539009E2D2C /* ToolbarTitleMenuExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -154,6 +155,7 @@
 		9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenCoverExample.swift; sourceTree = "<group>"; };
 		9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationDetentsExample.swift; sourceTree = "<group>"; };
 		9FC1E95329C18435009E2D2C /* ToolbarExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarExample.swift; sourceTree = "<group>"; };
+		9FC1E95529C18539009E2D2C /* ToolbarTitleMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarTitleMenuExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -297,6 +299,7 @@
 				9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */,
 				9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */,
 				9FC1E95329C18435009E2D2C /* ToolbarExample.swift */,
+				9FC1E95529C18539009E2D2C /* ToolbarTitleMenuExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -461,6 +464,7 @@
 				9F3066EF29C0F3A200528028 /* ProgressViewExample.swift in Sources */,
 				9F30671129C1116000528028 /* LabeledContentExample.swift in Sources */,
 				9FC1E94E29C17EFD009E2D2C /* SheetExample.swift in Sources */,
+				9FC1E95629C18539009E2D2C /* ToolbarTitleMenuExample.swift in Sources */,
 				9F3066F729C0F70500528028 /* ControlSizeExample.swift in Sources */,
 				9F30671929C11A2E00528028 /* NavigationLinkExample.swift in Sources */,
 				9F30673129C12C5C00528028 /* TabViewExample.swift in Sources */,

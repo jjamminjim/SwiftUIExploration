@@ -12,20 +12,20 @@ struct SwipeActionsExample: View {
         List {
             Text("SwipeActions")
                 .swipeActions(edge: .leading) {
-                        Button {} label: {
-                            Label("Label", systemImage: "star")
-                        }
+                    Button {} label: {
+                        Label("Label", systemImage: "star")
                     }
-                    .swipeActions(edge: .trailing) {
-                        Button(role: .destructive) {} label: {
-                            Label("Label", systemImage: "trash")
-                        }
-                        
-                        Button {} label: {
-                            Label("Label", systemImage: "flag")
-                        }
-                        .tint(.orange)
+                }
+                .swipeActions(edge: .trailing) {
+                    Button(role: .destructive) {} label: {
+                        Label("Label", systemImage: "trash")
                     }
+                    
+                    Button {} label: {
+                        Label("Label", systemImage: "flag")
+                    }
+                    .tint(.orange)
+                }
         }
     }
 }

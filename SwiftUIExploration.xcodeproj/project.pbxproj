@@ -64,6 +64,7 @@
 		9FC1E94429C17800009E2D2C /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94329C17800009E2D2C /* AlertExample.swift */; };
 		9FC1E94829C17A94009E2D2C /* ConfirmationDialogExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */; };
 		9FC1E94A29C17BDF009E2D2C /* ContextMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */; };
+		9FC1E94E29C17EFD009E2D2C /* SheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -146,6 +147,7 @@
 		9FC1E94329C17800009E2D2C /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
 		9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogExample.swift; sourceTree = "<group>"; };
 		9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuExample.swift; sourceTree = "<group>"; };
+		9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -285,6 +287,7 @@
 				9FC1E94329C17800009E2D2C /* AlertExample.swift */,
 				9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */,
 				9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */,
+				9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -446,6 +449,7 @@
 				9F30673329C12E8600528028 /* BadgeExample.swift in Sources */,
 				9F3066EF29C0F3A200528028 /* ProgressViewExample.swift in Sources */,
 				9F30671129C1116000528028 /* LabeledContentExample.swift in Sources */,
+				9FC1E94E29C17EFD009E2D2C /* SheetExample.swift in Sources */,
 				9F3066F729C0F70500528028 /* ControlSizeExample.swift in Sources */,
 				9F30671929C11A2E00528028 /* NavigationLinkExample.swift in Sources */,
 				9F30673129C12C5C00528028 /* TabViewExample.swift in Sources */,

@@ -63,6 +63,7 @@
 		9FC1E94229C17622009E2D2C /* ImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94129C17622009E2D2C /* ImageExample.swift */; };
 		9FC1E94429C17800009E2D2C /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94329C17800009E2D2C /* AlertExample.swift */; };
 		9FC1E94829C17A94009E2D2C /* ConfirmationDialogExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */; };
+		9FC1E94A29C17BDF009E2D2C /* ContextMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -144,6 +145,7 @@
 		9FC1E94129C17622009E2D2C /* ImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExample.swift; sourceTree = "<group>"; };
 		9FC1E94329C17800009E2D2C /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
 		9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogExample.swift; sourceTree = "<group>"; };
+		9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -282,6 +284,7 @@
 				9FC1E94129C17622009E2D2C /* ImageExample.swift */,
 				9FC1E94329C17800009E2D2C /* AlertExample.swift */,
 				9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */,
+				9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -449,6 +452,7 @@
 				9F30670F29C1109500528028 /* LabelExample.swift in Sources */,
 				9FC1E93429C16D81009E2D2C /* LazyVStackExample.swift in Sources */,
 				9F30673529C1307300528028 /* TextExample.swift in Sources */,
+				9FC1E94A29C17BDF009E2D2C /* ContextMenuExample.swift in Sources */,
 				9F30672729C1279500528028 /* SectionExample.swift in Sources */,
 				9F3066ED29C0F2CA00528028 /* StepperExample.swift in Sources */,
 				9FC1E92E29C1686A009E2D2C /* LazyHGridExample.swift in Sources */,

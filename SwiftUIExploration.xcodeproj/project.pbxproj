@@ -67,6 +67,7 @@
 		9FC1E94E29C17EFD009E2D2C /* SheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */; };
 		9FC1E95029C180DD009E2D2C /* FullScreenCoverExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */; };
 		9FC1E95229C181D7009E2D2C /* PresentationDetentsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */; };
+		9FC1E95429C18435009E2D2C /* ToolbarExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E95329C18435009E2D2C /* ToolbarExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -152,6 +153,7 @@
 		9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetExample.swift; sourceTree = "<group>"; };
 		9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenCoverExample.swift; sourceTree = "<group>"; };
 		9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationDetentsExample.swift; sourceTree = "<group>"; };
+		9FC1E95329C18435009E2D2C /* ToolbarExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolbarExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -294,6 +296,7 @@
 				9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */,
 				9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */,
 				9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */,
+				9FC1E95329C18435009E2D2C /* ToolbarExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -434,6 +437,7 @@
 				9FC1E93E29C17330009E2D2C /* AsyncImageExample.swift in Sources */,
 				9F30673929C131AC00528028 /* ToggleExample.swift in Sources */,
 				9FC1E93229C16BFF009E2D2C /* LazyVGridExample.swift in Sources */,
+				9FC1E95429C18435009E2D2C /* ToolbarExample.swift in Sources */,
 				9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */,
 				9FC1E93629C16E21009E2D2C /* ScrollViewReaderExample.swift in Sources */,
 				9F30671529C118D200528028 /* ListExample.swift in Sources */,

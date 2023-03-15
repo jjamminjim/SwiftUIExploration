@@ -51,6 +51,7 @@
 		9F483CD829C233540060A5B1 /* TextContentTypeExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F483CD729C233540060A5B1 /* TextContentTypeExample.swift */; };
 		9F483CDA29C235C00060A5B1 /* SwipeActionsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F483CD929C235C00060A5B1 /* SwipeActionsExample.swift */; };
 		9F483CDC29C23C380060A5B1 /* RefreshableExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F483CDB29C23C380060A5B1 /* RefreshableExample.swift */; };
+		9F483CDE29C23ED80060A5B1 /* TaskExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F483CDD29C23ED80060A5B1 /* TaskExample.swift */; };
 		9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92529C163D1009E2D2C /* ZStackExample.swift */; };
 		9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */; };
 		9FC1E92A29C1653E009E2D2C /* HStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92929C1653E009E2D2C /* HStackExample.swift */; };
@@ -142,6 +143,7 @@
 		9F483CD729C233540060A5B1 /* TextContentTypeExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextContentTypeExample.swift; sourceTree = "<group>"; };
 		9F483CD929C235C00060A5B1 /* SwipeActionsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionsExample.swift; sourceTree = "<group>"; };
 		9F483CDB29C23C380060A5B1 /* RefreshableExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshableExample.swift; sourceTree = "<group>"; };
+		9F483CDD29C23ED80060A5B1 /* TaskExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskExample.swift; sourceTree = "<group>"; };
 		9FC1E92529C163D1009E2D2C /* ZStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackExample.swift; sourceTree = "<group>"; };
 		9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderExample.swift; sourceTree = "<group>"; };
 		9FC1E92929C1653E009E2D2C /* HStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackExample.swift; sourceTree = "<group>"; };
@@ -312,6 +314,7 @@
 				9F483CD729C233540060A5B1 /* TextContentTypeExample.swift */,
 				9F483CD929C235C00060A5B1 /* SwipeActionsExample.swift */,
 				9F483CDB29C23C380060A5B1 /* RefreshableExample.swift */,
+				9F483CDD29C23ED80060A5B1 /* TaskExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -447,6 +450,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F30670929C10A8A00528028 /* FormExample.swift in Sources */,
+				9F483CDE29C23ED80060A5B1 /* TaskExample.swift in Sources */,
 				9F3066FD29C0F8B000528028 /* GroupBoxExample.swift in Sources */,
 				9F30670B29C10AED00528028 /* GaugeExample.swift in Sources */,
 				9FC1E93E29C17330009E2D2C /* AsyncImageExample.swift in Sources */,

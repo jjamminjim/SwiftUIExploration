@@ -11,7 +11,15 @@ struct DatePickerExample: View {
     @State private var selection = Date()
     
     var body: some View {
-        DatePicker("DatePicker", selection: $selection)
+        VStack {
+            DatePicker("DatePicker", selection: $selection)
+            
+            DatePicker("DatePicker", selection: $selection)
+                .datePickerStyle(.wheel)
+            
+            DatePicker("DatePicker", selection: $selection)
+                .datePickerStyle(.graphical)
+        }
     }
 }
 

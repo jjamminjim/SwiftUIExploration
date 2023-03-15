@@ -50,6 +50,7 @@
 		9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92529C163D1009E2D2C /* ZStackExample.swift */; };
 		9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */; };
 		9FC1E92A29C1653E009E2D2C /* HStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92929C1653E009E2D2C /* HStackExample.swift */; };
+		9FC1E92E29C1686A009E2D2C /* LazyHGridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92D29C1686A009E2D2C /* LazyHGridExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -118,6 +119,7 @@
 		9FC1E92529C163D1009E2D2C /* ZStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackExample.swift; sourceTree = "<group>"; };
 		9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderExample.swift; sourceTree = "<group>"; };
 		9FC1E92929C1653E009E2D2C /* HStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackExample.swift; sourceTree = "<group>"; };
+		9FC1E92D29C1686A009E2D2C /* LazyHGridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHGridExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -243,6 +245,7 @@
 				9FC1E92529C163D1009E2D2C /* ZStackExample.swift */,
 				9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */,
 				9FC1E92929C1653E009E2D2C /* HStackExample.swift */,
+				9FC1E92D29C1686A009E2D2C /* LazyHGridExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -403,6 +406,7 @@
 				9F30673529C1307300528028 /* TextExample.swift in Sources */,
 				9F30672729C1279500528028 /* SectionExample.swift in Sources */,
 				9F3066ED29C0F2CA00528028 /* StepperExample.swift in Sources */,
+				9FC1E92E29C1686A009E2D2C /* LazyHGridExample.swift in Sources */,
 				9F3066C229C0ECFA00528028 /* ContentView.swift in Sources */,
 				9F30671D29C11D3400528028 /* NavigationStackExample.swift in Sources */,
 				9F3066C029C0ECFA00528028 /* SwiftUIExplorationApp.swift in Sources */,

@@ -56,6 +56,7 @@
 		9FC1E93429C16D81009E2D2C /* LazyVStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93329C16D81009E2D2C /* LazyVStackExample.swift */; };
 		9FC1E93629C16E21009E2D2C /* ScrollViewReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */; };
 		9FC1E93829C16F4C009E2D2C /* SpacerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */; };
+		9FC1E93A29C17053009E2D2C /* VStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93929C17053009E2D2C /* VStackExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -130,6 +131,7 @@
 		9FC1E93329C16D81009E2D2C /* LazyVStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStackExample.swift; sourceTree = "<group>"; };
 		9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderExample.swift; sourceTree = "<group>"; };
 		9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerExample.swift; sourceTree = "<group>"; };
+		9FC1E93929C17053009E2D2C /* VStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStackExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -261,6 +263,7 @@
 				9FC1E93329C16D81009E2D2C /* LazyVStackExample.swift */,
 				9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */,
 				9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */,
+				9FC1E93929C17053009E2D2C /* VStackExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -411,6 +414,7 @@
 				9F30671329C117C900528028 /* LinkExample.swift in Sources */,
 				9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */,
 				9F3066F529C0F62700528028 /* ButtonExample.swift in Sources */,
+				9FC1E93A29C17053009E2D2C /* VStackExample.swift in Sources */,
 				9F30670329C1059D00528028 /* ColorPickerExample.swift in Sources */,
 				9F30672B29C129E800528028 /* ShareLinkExample.swift in Sources */,
 				9F30673329C12E8600528028 /* BadgeExample.swift in Sources */,

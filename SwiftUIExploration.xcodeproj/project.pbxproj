@@ -66,6 +66,7 @@
 		9FC1E94A29C17BDF009E2D2C /* ContextMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */; };
 		9FC1E94E29C17EFD009E2D2C /* SheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */; };
 		9FC1E95029C180DD009E2D2C /* FullScreenCoverExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */; };
+		9FC1E95229C181D7009E2D2C /* PresentationDetentsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -150,6 +151,7 @@
 		9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuExample.swift; sourceTree = "<group>"; };
 		9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetExample.swift; sourceTree = "<group>"; };
 		9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenCoverExample.swift; sourceTree = "<group>"; };
+		9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationDetentsExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -291,6 +293,7 @@
 				9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */,
 				9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */,
 				9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */,
+				9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -438,6 +441,7 @@
 				9FC1E94229C17622009E2D2C /* ImageExample.swift in Sources */,
 				9FC1E94829C17A94009E2D2C /* ConfirmationDialogExample.swift in Sources */,
 				9F30671B29C11C1800528028 /* NavigationSplitViewExample.swift in Sources */,
+				9FC1E95229C181D7009E2D2C /* PresentationDetentsExample.swift in Sources */,
 				9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */,
 				9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */,
 				9F3066F129C0F43400528028 /* PickerExample.swift in Sources */,

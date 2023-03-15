@@ -49,6 +49,7 @@
 		9F30673929C131AC00528028 /* ToggleExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673829C131AC00528028 /* ToggleExample.swift */; };
 		9F483CD629C230D70060A5B1 /* KeyboardTypeExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F483CD529C230D70060A5B1 /* KeyboardTypeExample.swift */; };
 		9F483CD829C233540060A5B1 /* TextContentTypeExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F483CD729C233540060A5B1 /* TextContentTypeExample.swift */; };
+		9F483CDA29C235C00060A5B1 /* SwipeActionsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F483CD929C235C00060A5B1 /* SwipeActionsExample.swift */; };
 		9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92529C163D1009E2D2C /* ZStackExample.swift */; };
 		9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */; };
 		9FC1E92A29C1653E009E2D2C /* HStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92929C1653E009E2D2C /* HStackExample.swift */; };
@@ -138,6 +139,7 @@
 		9F30673829C131AC00528028 /* ToggleExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleExample.swift; sourceTree = "<group>"; };
 		9F483CD529C230D70060A5B1 /* KeyboardTypeExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardTypeExample.swift; sourceTree = "<group>"; };
 		9F483CD729C233540060A5B1 /* TextContentTypeExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextContentTypeExample.swift; sourceTree = "<group>"; };
+		9F483CD929C235C00060A5B1 /* SwipeActionsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionsExample.swift; sourceTree = "<group>"; };
 		9FC1E92529C163D1009E2D2C /* ZStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackExample.swift; sourceTree = "<group>"; };
 		9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderExample.swift; sourceTree = "<group>"; };
 		9FC1E92929C1653E009E2D2C /* HStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackExample.swift; sourceTree = "<group>"; };
@@ -306,6 +308,7 @@
 				9FC1E95529C18539009E2D2C /* ToolbarTitleMenuExample.swift */,
 				9F483CD529C230D70060A5B1 /* KeyboardTypeExample.swift */,
 				9F483CD729C233540060A5B1 /* TextContentTypeExample.swift */,
+				9F483CD929C235C00060A5B1 /* SwipeActionsExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -449,6 +452,7 @@
 				9FC1E95429C18435009E2D2C /* ToolbarExample.swift in Sources */,
 				9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */,
 				9FC1E93629C16E21009E2D2C /* ScrollViewReaderExample.swift in Sources */,
+				9F483CDA29C235C00060A5B1 /* SwipeActionsExample.swift in Sources */,
 				9F30671529C118D200528028 /* ListExample.swift in Sources */,
 				9FC1E94429C17800009E2D2C /* AlertExample.swift in Sources */,
 				9FC1E94229C17622009E2D2C /* ImageExample.swift in Sources */,

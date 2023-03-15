@@ -65,6 +65,7 @@
 		9FC1E94829C17A94009E2D2C /* ConfirmationDialogExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */; };
 		9FC1E94A29C17BDF009E2D2C /* ContextMenuExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */; };
 		9FC1E94E29C17EFD009E2D2C /* SheetExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */; };
+		9FC1E95029C180DD009E2D2C /* FullScreenCoverExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -148,6 +149,7 @@
 		9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogExample.swift; sourceTree = "<group>"; };
 		9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContextMenuExample.swift; sourceTree = "<group>"; };
 		9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetExample.swift; sourceTree = "<group>"; };
+		9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenCoverExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -288,6 +290,7 @@
 				9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */,
 				9FC1E94929C17BDF009E2D2C /* ContextMenuExample.swift */,
 				9FC1E94D29C17EFD009E2D2C /* SheetExample.swift */,
+				9FC1E94F29C180DD009E2D2C /* FullScreenCoverExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -471,6 +474,7 @@
 				9F3066F329C0F58600528028 /* MenuExample.swift in Sources */,
 				9F30671F29C11DE700528028 /* OutlineGroupExample.swift in Sources */,
 				9F30673729C1315D00528028 /* TextFieldExample.swift in Sources */,
+				9FC1E95029C180DD009E2D2C /* FullScreenCoverExample.swift in Sources */,
 				9FC1E93829C16F4C009E2D2C /* SpacerExample.swift in Sources */,
 				9F30672F29C12BBB00528028 /* SliderExample.swift in Sources */,
 				9F30670529C106E900528028 /* DatePickerExample.swift in Sources */,

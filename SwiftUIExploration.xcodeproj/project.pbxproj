@@ -47,6 +47,7 @@
 		9F30673529C1307300528028 /* TextExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673429C1307300528028 /* TextExample.swift */; };
 		9F30673729C1315D00528028 /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673629C1315D00528028 /* TextFieldExample.swift */; };
 		9F30673929C131AC00528028 /* ToggleExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673829C131AC00528028 /* ToggleExample.swift */; };
+		9F483CD629C230D70060A5B1 /* KeyboardTypeExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F483CD529C230D70060A5B1 /* KeyboardTypeExample.swift */; };
 		9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92529C163D1009E2D2C /* ZStackExample.swift */; };
 		9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */; };
 		9FC1E92A29C1653E009E2D2C /* HStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92929C1653E009E2D2C /* HStackExample.swift */; };
@@ -134,6 +135,7 @@
 		9F30673429C1307300528028 /* TextExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextExample.swift; sourceTree = "<group>"; };
 		9F30673629C1315D00528028 /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
 		9F30673829C131AC00528028 /* ToggleExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleExample.swift; sourceTree = "<group>"; };
+		9F483CD529C230D70060A5B1 /* KeyboardTypeExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardTypeExample.swift; sourceTree = "<group>"; };
 		9FC1E92529C163D1009E2D2C /* ZStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackExample.swift; sourceTree = "<group>"; };
 		9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderExample.swift; sourceTree = "<group>"; };
 		9FC1E92929C1653E009E2D2C /* HStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackExample.swift; sourceTree = "<group>"; };
@@ -300,6 +302,7 @@
 				9FC1E95129C181D7009E2D2C /* PresentationDetentsExample.swift */,
 				9FC1E95329C18435009E2D2C /* ToolbarExample.swift */,
 				9FC1E95529C18539009E2D2C /* ToolbarTitleMenuExample.swift */,
+				9F483CD529C230D70060A5B1 /* KeyboardTypeExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -481,6 +484,7 @@
 				9F30671D29C11D3400528028 /* NavigationStackExample.swift in Sources */,
 				9F3066C029C0ECFA00528028 /* SwiftUIExplorationApp.swift in Sources */,
 				9F30670729C1093200528028 /* EditButtonExample.swift in Sources */,
+				9F483CD629C230D70060A5B1 /* KeyboardTypeExample.swift in Sources */,
 				9F30672529C125C900528028 /* ScrollViewExample.swift in Sources */,
 				9F30671729C1196000528028 /* MultiDatePickerExample.swift in Sources */,
 				9F3066F329C0F58600528028 /* MenuExample.swift in Sources */,

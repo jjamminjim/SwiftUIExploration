@@ -54,6 +54,7 @@
 		9FC1E93029C169BB009E2D2C /* LazyHStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92F29C169BB009E2D2C /* LazyHStackExample.swift */; };
 		9FC1E93229C16BFF009E2D2C /* LazyVGridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93129C16BFF009E2D2C /* LazyVGridExample.swift */; };
 		9FC1E93429C16D81009E2D2C /* LazyVStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93329C16D81009E2D2C /* LazyVStackExample.swift */; };
+		9FC1E93629C16E21009E2D2C /* ScrollViewReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -126,6 +127,7 @@
 		9FC1E92F29C169BB009E2D2C /* LazyHStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyHStackExample.swift; sourceTree = "<group>"; };
 		9FC1E93129C16BFF009E2D2C /* LazyVGridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridExample.swift; sourceTree = "<group>"; };
 		9FC1E93329C16D81009E2D2C /* LazyVStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStackExample.swift; sourceTree = "<group>"; };
+		9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -255,6 +257,7 @@
 				9FC1E92F29C169BB009E2D2C /* LazyHStackExample.swift */,
 				9FC1E93129C16BFF009E2D2C /* LazyVGridExample.swift */,
 				9FC1E93329C16D81009E2D2C /* LazyVStackExample.swift */,
+				9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -395,6 +398,7 @@
 				9F30673929C131AC00528028 /* ToggleExample.swift in Sources */,
 				9FC1E93229C16BFF009E2D2C /* LazyVGridExample.swift in Sources */,
 				9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */,
+				9FC1E93629C16E21009E2D2C /* ScrollViewReaderExample.swift in Sources */,
 				9F30671529C118D200528028 /* ListExample.swift in Sources */,
 				9F30671B29C11C1800528028 /* NavigationSplitViewExample.swift in Sources */,
 				9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */,

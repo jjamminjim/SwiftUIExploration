@@ -48,6 +48,7 @@
 		9F30673729C1315D00528028 /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673629C1315D00528028 /* TextFieldExample.swift */; };
 		9F30673929C131AC00528028 /* ToggleExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673829C131AC00528028 /* ToggleExample.swift */; };
 		9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92529C163D1009E2D2C /* ZStackExample.swift */; };
+		9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -114,6 +115,7 @@
 		9F30673629C1315D00528028 /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
 		9F30673829C131AC00528028 /* ToggleExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleExample.swift; sourceTree = "<group>"; };
 		9FC1E92529C163D1009E2D2C /* ZStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackExample.swift; sourceTree = "<group>"; };
+		9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -237,6 +239,7 @@
 				9F30673629C1315D00528028 /* TextFieldExample.swift */,
 				9F30673829C131AC00528028 /* ToggleExample.swift */,
 				9FC1E92529C163D1009E2D2C /* ZStackExample.swift */,
+				9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -379,6 +382,7 @@
 				9F30671529C118D200528028 /* ListExample.swift in Sources */,
 				9F30671B29C11C1800528028 /* NavigationSplitViewExample.swift in Sources */,
 				9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */,
+				9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */,
 				9F3066F129C0F43400528028 /* PickerExample.swift in Sources */,
 				9F30671329C117C900528028 /* LinkExample.swift in Sources */,
 				9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */,

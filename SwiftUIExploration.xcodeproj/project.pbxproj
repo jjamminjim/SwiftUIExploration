@@ -49,6 +49,7 @@
 		9F30673929C131AC00528028 /* ToggleExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673829C131AC00528028 /* ToggleExample.swift */; };
 		9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92529C163D1009E2D2C /* ZStackExample.swift */; };
 		9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */; };
+		9FC1E92A29C1653E009E2D2C /* HStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92929C1653E009E2D2C /* HStackExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -116,6 +117,7 @@
 		9F30673829C131AC00528028 /* ToggleExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleExample.swift; sourceTree = "<group>"; };
 		9FC1E92529C163D1009E2D2C /* ZStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackExample.swift; sourceTree = "<group>"; };
 		9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderExample.swift; sourceTree = "<group>"; };
+		9FC1E92929C1653E009E2D2C /* HStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HStackExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -240,6 +242,7 @@
 				9F30673829C131AC00528028 /* ToggleExample.swift */,
 				9FC1E92529C163D1009E2D2C /* ZStackExample.swift */,
 				9FC1E92729C16471009E2D2C /* GeometryReaderExample.swift */,
+				9FC1E92929C1653E009E2D2C /* HStackExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -384,6 +387,7 @@
 				9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */,
 				9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */,
 				9F3066F129C0F43400528028 /* PickerExample.swift in Sources */,
+				9FC1E92A29C1653E009E2D2C /* HStackExample.swift in Sources */,
 				9F30671329C117C900528028 /* LinkExample.swift in Sources */,
 				9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */,
 				9F3066F529C0F62700528028 /* ButtonExample.swift in Sources */,

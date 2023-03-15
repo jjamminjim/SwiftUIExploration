@@ -60,6 +60,7 @@
 		9FC1E93C29C1718C009E2D2C /* ViewThatFitsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93B29C1718C009E2D2C /* ViewThatFitsExample.swift */; };
 		9FC1E93E29C17330009E2D2C /* AsyncImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93D29C17330009E2D2C /* AsyncImageExample.swift */; };
 		9FC1E94029C17561009E2D2C /* DividerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93F29C17561009E2D2C /* DividerExample.swift */; };
+		9FC1E94229C17622009E2D2C /* ImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94129C17622009E2D2C /* ImageExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -138,6 +139,7 @@
 		9FC1E93B29C1718C009E2D2C /* ViewThatFitsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsExample.swift; sourceTree = "<group>"; };
 		9FC1E93D29C17330009E2D2C /* AsyncImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageExample.swift; sourceTree = "<group>"; };
 		9FC1E93F29C17561009E2D2C /* DividerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividerExample.swift; sourceTree = "<group>"; };
+		9FC1E94129C17622009E2D2C /* ImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -273,6 +275,7 @@
 				9FC1E93B29C1718C009E2D2C /* ViewThatFitsExample.swift */,
 				9FC1E93D29C17330009E2D2C /* AsyncImageExample.swift */,
 				9FC1E93F29C17561009E2D2C /* DividerExample.swift */,
+				9FC1E94129C17622009E2D2C /* ImageExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -416,6 +419,7 @@
 				9F3066F929C0F7BF00528028 /* DisclosureGroupExample.swift in Sources */,
 				9FC1E93629C16E21009E2D2C /* ScrollViewReaderExample.swift in Sources */,
 				9F30671529C118D200528028 /* ListExample.swift in Sources */,
+				9FC1E94229C17622009E2D2C /* ImageExample.swift in Sources */,
 				9F30671B29C11C1800528028 /* NavigationSplitViewExample.swift in Sources */,
 				9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */,
 				9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */,

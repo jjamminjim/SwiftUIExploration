@@ -55,6 +55,7 @@
 		9FC1E93229C16BFF009E2D2C /* LazyVGridExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93129C16BFF009E2D2C /* LazyVGridExample.swift */; };
 		9FC1E93429C16D81009E2D2C /* LazyVStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93329C16D81009E2D2C /* LazyVStackExample.swift */; };
 		9FC1E93629C16E21009E2D2C /* ScrollViewReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */; };
+		9FC1E93829C16F4C009E2D2C /* SpacerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -128,6 +129,7 @@
 		9FC1E93129C16BFF009E2D2C /* LazyVGridExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridExample.swift; sourceTree = "<group>"; };
 		9FC1E93329C16D81009E2D2C /* LazyVStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVStackExample.swift; sourceTree = "<group>"; };
 		9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderExample.swift; sourceTree = "<group>"; };
+		9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -258,6 +260,7 @@
 				9FC1E93129C16BFF009E2D2C /* LazyVGridExample.swift */,
 				9FC1E93329C16D81009E2D2C /* LazyVStackExample.swift */,
 				9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */,
+				9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -432,6 +435,7 @@
 				9F3066F329C0F58600528028 /* MenuExample.swift in Sources */,
 				9F30671F29C11DE700528028 /* OutlineGroupExample.swift in Sources */,
 				9F30673729C1315D00528028 /* TextFieldExample.swift in Sources */,
+				9FC1E93829C16F4C009E2D2C /* SpacerExample.swift in Sources */,
 				9F30672F29C12BBB00528028 /* SliderExample.swift in Sources */,
 				9F30670529C106E900528028 /* DatePickerExample.swift in Sources */,
 				9F30670129C0FA8D00528028 /* TextEditorExample.swift in Sources */,

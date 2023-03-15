@@ -57,6 +57,7 @@
 		9FC1E93629C16E21009E2D2C /* ScrollViewReaderExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */; };
 		9FC1E93829C16F4C009E2D2C /* SpacerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */; };
 		9FC1E93A29C17053009E2D2C /* VStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93929C17053009E2D2C /* VStackExample.swift */; };
+		9FC1E93C29C1718C009E2D2C /* ViewThatFitsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93B29C1718C009E2D2C /* ViewThatFitsExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -132,6 +133,7 @@
 		9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderExample.swift; sourceTree = "<group>"; };
 		9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerExample.swift; sourceTree = "<group>"; };
 		9FC1E93929C17053009E2D2C /* VStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VStackExample.swift; sourceTree = "<group>"; };
+		9FC1E93B29C1718C009E2D2C /* ViewThatFitsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFitsExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -264,6 +266,7 @@
 				9FC1E93529C16E21009E2D2C /* ScrollViewReaderExample.swift */,
 				9FC1E93729C16F4C009E2D2C /* SpacerExample.swift */,
 				9FC1E93929C17053009E2D2C /* VStackExample.swift */,
+				9FC1E93B29C1718C009E2D2C /* ViewThatFitsExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -410,6 +413,7 @@
 				9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */,
 				9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */,
 				9F3066F129C0F43400528028 /* PickerExample.swift in Sources */,
+				9FC1E93C29C1718C009E2D2C /* ViewThatFitsExample.swift in Sources */,
 				9FC1E92A29C1653E009E2D2C /* HStackExample.swift in Sources */,
 				9F30671329C117C900528028 /* LinkExample.swift in Sources */,
 				9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */,

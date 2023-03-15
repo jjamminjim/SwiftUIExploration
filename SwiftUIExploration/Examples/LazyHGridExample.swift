@@ -8,12 +8,14 @@
 import SwiftUI
 
 struct LazyHGridExample: View {
-    let items = 1...100
+    let items = 1...1000
     
     var body: some View {
-        LazyHGrid(rows: [GridItem(.adaptive(minimum: 50))]) {
-            ForEach(items, id: \.self) { item in
-                Text("\(item)")
+        ScrollView(.horizontal) {
+            LazyHGrid(rows: [GridItem(.adaptive(minimum: 50))]) {
+                ForEach(items, id: \.self) { item in
+                    Text("\(item)")
+                }
             }
         }
     }

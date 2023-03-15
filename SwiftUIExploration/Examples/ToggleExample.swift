@@ -16,6 +16,10 @@ struct ToggleExample: View {
             
             Toggle("Toggle", isOn: $isOn)
                 .toggleStyle(.button)
+            
+            Menu("Menu") {
+                Toggle("Toggle", isOn: $isOn)
+            }
         }
     }
 }

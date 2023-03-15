@@ -28,6 +28,13 @@ struct PickerExample: View {
                 Text("2").tag(2)
             }
             .pickerStyle(.inline)
+            
+            Menu("Menu") {
+                Picker("Picker", selection: $selection) {
+                    Text("1").tag(1)
+                    Text("2").tag(2)
+                }
+            }
         }
     }
 }

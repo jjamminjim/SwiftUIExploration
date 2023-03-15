@@ -11,7 +11,12 @@ struct ToggleExample: View {
     @State private var isOn = false
     
     var body: some View {
-        Toggle("Toggle", isOn: $isOn)
+        VStack {
+            Toggle("Toggle", isOn: $isOn)
+            
+            Toggle("Toggle", isOn: $isOn)
+                .toggleStyle(.button)
+        }
     }
 }
 

@@ -47,6 +47,7 @@
 		9F30673529C1307300528028 /* TextExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673429C1307300528028 /* TextExample.swift */; };
 		9F30673729C1315D00528028 /* TextFieldExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673629C1315D00528028 /* TextFieldExample.swift */; };
 		9F30673929C131AC00528028 /* ToggleExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F30673829C131AC00528028 /* ToggleExample.swift */; };
+		9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E92529C163D1009E2D2C /* ZStackExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -112,6 +113,7 @@
 		9F30673429C1307300528028 /* TextExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextExample.swift; sourceTree = "<group>"; };
 		9F30673629C1315D00528028 /* TextFieldExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldExample.swift; sourceTree = "<group>"; };
 		9F30673829C131AC00528028 /* ToggleExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleExample.swift; sourceTree = "<group>"; };
+		9FC1E92529C163D1009E2D2C /* ZStackExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZStackExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -234,6 +236,7 @@
 				9F30673429C1307300528028 /* TextExample.swift */,
 				9F30673629C1315D00528028 /* TextFieldExample.swift */,
 				9F30673829C131AC00528028 /* ToggleExample.swift */,
+				9FC1E92529C163D1009E2D2C /* ZStackExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -378,6 +381,7 @@
 				9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */,
 				9F3066F129C0F43400528028 /* PickerExample.swift in Sources */,
 				9F30671329C117C900528028 /* LinkExample.swift in Sources */,
+				9FC1E92629C163D1009E2D2C /* ZStackExample.swift in Sources */,
 				9F3066F529C0F62700528028 /* ButtonExample.swift in Sources */,
 				9F30670329C1059D00528028 /* ColorPickerExample.swift in Sources */,
 				9F30672B29C129E800528028 /* ShareLinkExample.swift in Sources */,

@@ -62,6 +62,7 @@
 		9FC1E94029C17561009E2D2C /* DividerExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E93F29C17561009E2D2C /* DividerExample.swift */; };
 		9FC1E94229C17622009E2D2C /* ImageExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94129C17622009E2D2C /* ImageExample.swift */; };
 		9FC1E94429C17800009E2D2C /* AlertExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94329C17800009E2D2C /* AlertExample.swift */; };
+		9FC1E94829C17A94009E2D2C /* ConfirmationDialogExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -142,6 +143,7 @@
 		9FC1E93F29C17561009E2D2C /* DividerExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DividerExample.swift; sourceTree = "<group>"; };
 		9FC1E94129C17622009E2D2C /* ImageExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExample.swift; sourceTree = "<group>"; };
 		9FC1E94329C17800009E2D2C /* AlertExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertExample.swift; sourceTree = "<group>"; };
+		9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmationDialogExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -279,6 +281,7 @@
 				9FC1E93F29C17561009E2D2C /* DividerExample.swift */,
 				9FC1E94129C17622009E2D2C /* ImageExample.swift */,
 				9FC1E94329C17800009E2D2C /* AlertExample.swift */,
+				9FC1E94729C17A94009E2D2C /* ConfirmationDialogExample.swift */,
 			);
 			path = Examples;
 			sourceTree = "<group>";
@@ -424,6 +427,7 @@
 				9F30671529C118D200528028 /* ListExample.swift in Sources */,
 				9FC1E94429C17800009E2D2C /* AlertExample.swift in Sources */,
 				9FC1E94229C17622009E2D2C /* ImageExample.swift in Sources */,
+				9FC1E94829C17A94009E2D2C /* ConfirmationDialogExample.swift in Sources */,
 				9F30671B29C11C1800528028 /* NavigationSplitViewExample.swift in Sources */,
 				9F30672929C1293500528028 /* SecureFieldExample.swift in Sources */,
 				9FC1E92829C16471009E2D2C /* GeometryReaderExample.swift in Sources */,

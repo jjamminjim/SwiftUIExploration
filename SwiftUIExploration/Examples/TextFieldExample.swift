@@ -11,7 +11,12 @@ struct TextFieldExample: View {
     @State private var text = "TextField"
     
     var body: some View {
-        TextField("TextField", text: $text)
+        VStack {
+            TextField("TextField", text: $text)
+            
+            TextField("TextField", text: $text)
+                .textFieldStyle(.roundedBorder)
+        }
     }
 }
 

@@ -8,6 +8,13 @@
 import SwiftUI
 
 struct RefreshableExample: View {
+    private func logic() async {
+        do {
+            try await Task.sleep(for: .seconds(3))
+        } catch {
+        }
+    }
+    
     var body: some View {
         VStack {
             List {
@@ -27,12 +34,6 @@ struct RefreshableExample: View {
             }
         }
     }
-}
-
-private func logic() async {
-    do {
-        try await Task.sleep(for: .seconds(3))
-    } catch {}
 }
 
 struct RefreshableExample_Previews: PreviewProvider {
